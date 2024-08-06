@@ -1,0 +1,25 @@
+:root {
+    --corFundo: #492e55;
+    --corRelogio: #805194;
+  }
+  
+
+html{
+
+}
+
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin-top: 100px;
+background-color: var(--corFundo);
+}
+#titulo {
+ color: var(--corRelogio);
+ margin-top: 10%;
+}
+#clock {
+margin-top: 5%;
+font-size: 200px;
+color: var(--corRelogio);
+}
